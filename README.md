@@ -1,4 +1,4 @@
-# Immutability and the Spread Operator
+# Immutability and the Spread Syntax
 
 ## Immutability
 
